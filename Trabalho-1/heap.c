@@ -1,9 +1,9 @@
 /************************************************************************************************************************************
 *                                                                                                                                   *
-* Trabalho 1 - Estruturas de Dados Avaçadas (INF1010)                                                                               *
+* Trabalho 1 - Estruturas de Dados AvaÃ§adas (INF1010)                                                                               *
 * QUESTAO 2                                                                                                                         *
 * Professor - Marcus Poggi                                                                                                          *
-* Alunos - Lucas Hardman (1113567) e Stephanie Fay (1121598)                                                                        *
+* Alunos - Lucas Hardman e Stephanie Fay                                                                                               *
 *                                                                                                                                   *
 *************************************************************************************************************************************/
 
