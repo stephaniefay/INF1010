@@ -1,8 +1,3 @@
-/*----------------------------------------------------/*<br>
-/* Trabalho 1 - Estruturas de Dados Avaçadas (INF1010)/*<br> 
-/* Relatorio                                          /*<br>                                                                 
-/*----------------------------------------------------/*<br>
-<br>
 HEAP:<br>
 <br>
 Depois de analisar como ambas as heaps funcionam, pude concluir que a Heap de Fibonacci é perceptivelmente mais rápida para pequenas entradas. Para entradas médias ou grandes ela pode demorar a mesma quantidade ou até mesmo mais que a Heap normal.
