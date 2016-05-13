@@ -1,9 +1,9 @@
 /************************************************************************************************************************************
 *                                                                                                                                   *
-* Trabalho 1 - Estruturas de Dados AvaÁadas (INF1010)                                                                               *
+* Trabalho 1 - Estruturas de Dados Ava√ßadas (INF1010)                                                                               *
 * QUESTAO 1                                                                                                                         *
 * Professor - Marcus Poggi                                                                                                          *
-* Alunos - Lucas Hardman (1113567) e Stephanie Fay (1121598)                                                                        *
+* Alunos - Lucas Hardman e Stephanie Fay                                                                      *
 *                                                                                                                                   *
 *************************************************************************************************************************************/
 
@@ -249,7 +249,7 @@ int main (void){
 
 /************************************************************************************************************************************
 
-Resposta da quest‚o 1 item (a)
+Resposta da quest√¢o 1 item (a)
 
 Enderecamento aberto com passo unitario, ou seja, em caso de colisao tenta-se inserir na primeira posicao seguinte livre.
 
@@ -381,7 +381,7 @@ long int hsh_buscaA(long int qtd_operacao, long int* elem, int busca){
 
 		/* Este pedaco do codigo compara o conteudo de elem com
 		   o conteudo de de tabHash naquele indice. Para cada elemento
-		   igual, comp È acrescentado de 1. Entao no final, se comp
+		   igual, comp √© acrescentado de 1. Entao no final, se comp
 		   for igual a qtd_operacao, eh porque o elemento esta na tabHash
 		*/
 
@@ -468,7 +468,7 @@ long int hsh_removeA(long int qtd_operacao, long int * elem){
 
 /************************************************************************************************************************************
 
-Resposta da quest‚o 1 item (b)
+Resposta da quest√¢o 1 item (b)
 
 Enderecamento aberto com passo determinado por outra funcao.
 
@@ -589,7 +589,7 @@ long int hsh_buscaB(long int qtd_operacao, long int* elem, int busca){
 
 		/* Este pedaco do codigo compara o conteudo de elem com
 		   o conteudo de de tabHash naquele indice. Para cada elemento
-		   igual, comp È acrescentado de 1. Entao no final, se comp
+		   igual, comp √© acrescentado de 1. Entao no final, se comp
 		   for igual a qtd_operacao, eh porque o elemento esta na tabHash
 		*/
 
@@ -676,7 +676,7 @@ long int hsh_removeB(long int qtd_operacao, long int * elem){
 
 /************************************************************************************************************************************
 
-Resposta da quest‚o 1 item (c)
+Resposta da quest√¢o 1 item (c)
 
 Enderecamento externo, utilizando lista encadeada.
 
@@ -798,7 +798,7 @@ long int hsh_buscaC(long int qtd_operacao, long int* elem, int busca){
 		/* 
 		   Este pedaco do codigo compara o conteudo de elem com
 		   o conteudo de de tabHash naquele indice. Para cada elemento
-		   igual, comp È acrescentado de 1. Entao no final, se comp
+		   igual, comp √© acrescentado de 1. Entao no final, se comp
 		   for igual a qtd_operacao, eh porque o elemento esta na tabHash
 		*/
 
@@ -871,7 +871,7 @@ long int hsh_removeC(long int qtd_operacao, long int* elem){
 
 /************************************************************************************************************************************
 
-Resposta da quest‚o 1 item (d)
+Resposta da quest√¢o 1 item (d)
 
 Enderecamento aberto com passo determinado alternando duas funcoes.
 
@@ -1002,7 +1002,7 @@ long int hsh_buscaD(long int qtd_operacao, long int* elem, int busca){
 
 		/* Este pedaco do codigo compara o conteudo de elem com
 		   o conteudo de de tabHash naquele indice. Para cada elemento
-		   igual, comp È acrescentado de 1. Entao no final, se comp
+		   igual, comp √© acrescentado de 1. Entao no final, se comp
 		   for igual a qtd_operacao, eh porque o elemento esta na tabHash
 		*/
 
