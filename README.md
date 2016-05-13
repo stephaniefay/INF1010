@@ -1,4 +1,4 @@
 # Inf1010 - Estruturas de Dados Avançados
 
-Professor: Poggi
+Professor: Poggi\n
 Período: 2015_1
